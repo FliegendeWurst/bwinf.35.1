@@ -1,0 +1,9 @@
+7
+#######
+#  333#
+     2#
+#1   2#
+#1   2#
+#100 2#
+#######
+Nicht nur Ausgänge unten sind erlaubt!

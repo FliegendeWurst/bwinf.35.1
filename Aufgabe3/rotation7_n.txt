@@ -1,0 +1,27 @@
+14
+##############
+#            #
+#            #
+#            #
+#            #
+#            #
+#            #
+#4           #
+#4         99#
+#33         8#
+#22         7#
+#1          6#
+#00    555555#
+####### ######
+  54 sek
+ 223 tiefe
+3000 MB
+2100 MB
+ 770 MB i64 -> i8
+  48 sek ... + ^
+ 340 MB ... + RAM sparen im Cache
+  49 sek ... + ^
+ 344 MB  rustup
+  53 sek rustup
+  30 sek ... + get_stäbchen + ...
+  20 sek ... + gravitationsoptimierung

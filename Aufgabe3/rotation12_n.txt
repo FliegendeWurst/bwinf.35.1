@@ -1,0 +1,12 @@
+7
+#######
+#89555#
+#6   7#
+#4   3#
+#41  3#
+#42203#
+#######
+Kein Ausgang ist auch möglich!
+Hier mit vielen Würfeln, um mein Programm zu quälen...
+in ca. 6s gibt mein Programm aus,
+dass es keine Lösung finden konnte

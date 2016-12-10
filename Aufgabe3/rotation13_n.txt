@@ -1,0 +1,11 @@
+7
+#######
+#   55#
+#   44#
+#   33#
+#   22#
+#0  11#
+##  ###
+Größere Ausgänge sind auch möglich!
+Allerdings ist nicht gewährleistet, dass der gesamte
+Ausgang genutzt wird.

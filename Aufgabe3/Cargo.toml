@@ -1,0 +1,7 @@
+[package]
+name = "Aufgabe3"
+version = "0.1.0"
+authors = ["Arne <arne.keller01@yahoo.de>"]
+
+[dependencies]
+colored = "1.3"

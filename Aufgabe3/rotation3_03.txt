@@ -1,0 +1,19 @@
+10
+##########
+#        #
+#        #
+#        #
+#    7775#
+#   11  5#
+#   2 888#
+#990233  #
+#44066666#
+##### ####
+   9 sec
+  89 dep
+ 373 MB
+ 270 MB i64 -> i32
+ 172 MB i32 -> i8
+  90 MB cache-optimierung
+7.35 sec opt. get_stäbchen (1800ns -> 1100ns)
+6.75 sec opt. ^ with_capacity (1100ns -> 975ns)

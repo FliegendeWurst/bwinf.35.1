@@ -1,0 +1,7 @@
+[GUS, GUS, GUS, GUS, US, GUS]
+[US, US, US, US, GUS, US, US, GUS, GUS, GUS, GUS, GUS, GUS, GUS, US, US, US, US, US, US, GUS, US]
+[GUS, US, US, US, US, GUS, GUS, GUS, US, US, US, GUS, GUS, GUS, GUS, GUS, GUS, GUS, US, US, GUS, GUS, US, US, US, US, US, US, US, GUS, US, US, US, US, US, US, US, US, US, US, US, GUS, GUS, GUS, US, US, US, US, US, GUS, GUS, GUS, GUS, GUS, US, US, US, US, GUS, GUS, US, US, US, US, US, US, US, GUS, US, GUS, GUS, GUS, GUS, GUS, GUS, GUS, GUS, GUS, GUS, GUS, US, GUS, GUS, US, US, US, US, US, GUS, US]
+bzw.
+[↺, ↺, ↺, ↺, ↻, ↺]
+[↻, ↻, ↻, ↻, ↺, ↻, ↻, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↻, ↻, ↻, ↻, ↻, ↻, ↺, ↻]
+[↺, ↻, ↻, ↻, ↻, ↺, ↺, ↺, ↻, ↻, ↻, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↻, ↻, ↺, ↺, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↺, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↺, ↺, ↺, ↻, ↻, ↻, ↻, ↻, ↺, ↺, ↺, ↺, ↺, ↻, ↻, ↻, ↻, ↺, ↺, ↻, ↻, ↻, ↻, ↻, ↻, ↻, ↺, ↻, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↺, ↻, ↺, ↺, ↻, ↻, ↻, ↻, ↻, ↺, ↻]
